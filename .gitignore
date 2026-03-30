@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+.vscode/
+
+# Ignore downloaded stitch design files
+desktop.html
+mobile.html
